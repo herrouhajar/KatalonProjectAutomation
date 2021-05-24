@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>93044ea6-9cad-4446-848e-e6da2b5b2105</testCaseGuid>
+   <variable>
+      <defaultValue>'https://hajarherrou-trials71.orangehrmlive.com/'</defaultValue>
+      <description></description>
+      <id>61862d36-5f48-4ce7-9558-e579dd788da6</id>
+      <masked>false</masked>
+      <name>URL_Site</name>
+   </variable>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>575caa9c-860e-414c-ba0a-f4a6b89471ae</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>'U2c7@PgzHE'</defaultValue>
+      <description></description>
+      <id>b77d0ec1-a663-4f55-a455-507caa82bff6</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

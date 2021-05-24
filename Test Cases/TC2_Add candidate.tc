@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2_Add candidate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5255396-028e-4ed2-b06b-7b23f01653b1</testCaseGuid>
+   <variable>
+      <defaultValue>'Hajaaaar'</defaultValue>
+      <description></description>
+      <id>dcabf8f7-9645-4940-b38a-374a220da307</id>
+      <masked>false</masked>
+      <name>FN</name>
+   </variable>
+   <variable>
+      <defaultValue>'Heeeer'</defaultValue>
+      <description></description>
+      <id>c213d61a-2522-4928-bd32-9596753150ea</id>
+      <masked>false</masked>
+      <name>MN</name>
+   </variable>
+   <variable>
+      <defaultValue>'HajHer@gmail.com'</defaultValue>
+      <description></description>
+      <id>57c87834-9a20-4bfd-a329-0e79bdb7d6a0</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'UX'</defaultValue>
+      <description></description>
+      <id>5fc459fc-36f5-405b-b34e-10a38b8dba8d</id>
+      <masked>false</masked>
+      <name>Post</name>
+   </variable>
+</TestCaseEntity>
