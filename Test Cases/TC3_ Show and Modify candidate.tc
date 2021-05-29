@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC3_ Show and Modify candidate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1de6d85-a9b6-495c-91da-bd22a2c1c5a1</testCaseGuid>
+   <variable>
+      <defaultValue>'fz.senoussi@gmail.com'</defaultValue>
+      <description></description>
+      <id>8ffecca7-038c-478f-96b4-8f8f61fcd23e</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

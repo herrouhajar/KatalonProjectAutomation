@@ -6,14 +6,14 @@
    <comment></comment>
    <testCaseGuid>e5255396-028e-4ed2-b06b-7b23f01653b1</testCaseGuid>
    <variable>
-      <defaultValue>'Hajaaaar'</defaultValue>
+      <defaultValue>'Fatima Zahrae'</defaultValue>
       <description></description>
       <id>dcabf8f7-9645-4940-b38a-374a220da307</id>
       <masked>false</masked>
       <name>FN</name>
    </variable>
    <variable>
-      <defaultValue>'Heeeer'</defaultValue>
+      <defaultValue>'Sen'</defaultValue>
       <description></description>
       <id>c213d61a-2522-4928-bd32-9596753150ea</id>
       <masked>false</masked>

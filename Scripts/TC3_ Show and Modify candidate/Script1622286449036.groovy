@@ -17,15 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.switchToWindowTitle('OrangeHRM')
 
-WebUI.maximizeWindow()
+WebUI.verifyElementPresent(findTestObject('Details candidate/Page_OrangeHRM/td_Fatima Zahrae  Sen'), 1)
 
-WebUI.navigateToUrl(URL_Site)
+WebUI.click(findTestObject('Object Repository/Details candidate/Page_OrangeHRM/td_Fatima Zahrae  Sen'))
 
-WebUI.setText(findTestObject('username_ID'), UserName)
+WebUI.switchToWindowIndex(1)
 
-WebUI.setText(findTestObject('password_ID'), Password)
+WebUI.click(findTestObject('Object Repository/Details candidate/Page_OrangeHRM/div_UIUX Engineer'))
 
-WebUI.click(findTestObject('loginbtn'))
+WebUI.click(findTestObject('Object Repository/Details candidate/Page_OrangeHRM/p_DevOps Engineer'))
+
+WebUI.setText(findTestObject('Object Repository/Details candidate/Page_OrangeHRM/input__addCandidateemail'), email)
+
+WebUI.click(findTestObject('Object Repository/Details candidate/Page_OrangeHRM/a_Save'))
+
+WebUI.click(findTestObject('Object Repository/Details candidate/Page_OrangeHRM/a_Yes, Continue'))
+
+WebUI.click(findTestObject('Object Repository/Details candidate/Page_OrangeHRM/div_Successfully Saved'))
 
